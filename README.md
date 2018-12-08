@@ -17,3 +17,6 @@ more text
 ## one last section
 
 with some text
+
+## Copyright
+2018 Training
